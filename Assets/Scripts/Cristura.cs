@@ -7,6 +7,7 @@ public class Cristura : MonoBehaviour
     public Vector3 escala;
     public Color color;
     public float Speed;
+    public int ingestedfood;
 
     public float[] genoma;
 
